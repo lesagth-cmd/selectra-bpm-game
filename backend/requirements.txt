@@ -1,0 +1,5 @@
+fastapi>=0.104.0,<1.0.0
+uvicorn
+sqlmodel
+openai
+pydantic>=2.0.0,<3.0.0
